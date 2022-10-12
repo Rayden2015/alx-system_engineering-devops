@@ -1,7 +1,7 @@
 # create file with certain requirements
-file { '/tmp/holberton':
+file { '/tmp/best':
   ensure  => file,
-  path    => '/tmp/holberton',
+  path    => '/tmp/best',
   mode    => '0744',
   owner   => 'www-data',
   group   => 'www-data',

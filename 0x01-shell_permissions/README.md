@@ -11,10 +11,10 @@
 * 9-John_Doe: script that sets custom permissions to hello
 * 10-mirror_permissions: script that sets the mode of the file hello the same as olleh's mode
 * 11-directories_permissions: script that adds execute permission to all subdirectories of the current directory
-* 12-directory_permissions: script that creates a directory called dir_holberton with permissions 751 in the working directory
-* 13-change_group: script that changes the group owner to holberton for the file hello
-* 14-change_owner_and_group: script that changes the owner to betty and the group owner to holberton
-* 15-symbolic_link_permissions: script that changes the owner and the group owner of the symbolic link file _hello to betty and holberton respectively
+* 12-directory_permissions: script that creates a directory called dir_best with permissions 751 in the working directory
+* 13-change_group: script that changes the group owner to best for the file hello
+* 14-change_owner_and_group: script that changes the owner to betty and the group owner to best
+* 15-symbolic_link_permissions: script that changes the owner and the group owner of the symbolic link file _hello to betty and best respectively
 * 16-if_only: script that changes the owner conditionally
 * 100-Star_Wars
-* 101-man_holberton
+* 101-man_best
